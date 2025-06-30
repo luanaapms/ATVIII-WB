@@ -9,7 +9,7 @@ Desenvolver a mesma interface gráfica criada anteriormente com componentes de c
 1. Clone o repositório:
     
     ```bash
-    git clone <https://github.com/luanaapms/ATVIII-WB.git>
+    git clone <https://github.com/luanaapms/T3.git>
     
     ```
     
