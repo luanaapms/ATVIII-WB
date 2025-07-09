@@ -40,3 +40,4 @@ O projeto será executado em http://localhost:3000.
 
 - TypeScript
 - React
+- Node.js v16
